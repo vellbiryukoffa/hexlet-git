@@ -1,1 +1,0 @@
-Yaskell Curry
